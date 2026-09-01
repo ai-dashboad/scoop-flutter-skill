@@ -1,12 +1,12 @@
 {
-    "version": "0.9.34",
+    "version": "0.9.37",
     "description": "AI Agent Bridge for Flutter Apps - Connect Claude, Cursor, and other AI agents to running Flutter applications",
     "homepage": "https://github.com/ai-dashboad/flutter-skill",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ai-dashboad/flutter-skill/releases/download/v0.9.34/flutter-skill-windows-x64.exe",
-            "hash": "870ea04c216dfce9c5d83a557a13cb95e64e561503c600431ac2f05a4d9266e3"
+            "url": "https://github.com/ai-dashboad/flutter-skill/releases/download/v0.9.37/flutter-skill-windows-x64.exe",
+            "hash": "4469f7885fa711c7ace162028c3fa9624e2c2836abcc1bf3f6efedc7065af443"
         }
     },
     "bin": [["flutter-skill-windows-x64.exe", "flutter-skill"]],
